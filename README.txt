@@ -1,6 +1,10 @@
-Doesn’t Save/Load
-Doesn’t Fit/Full_size
-Play button doesn’t work
+Need to add:
+Save/Load
+Fit/Full_size
+Play button
+
+Fix:
+custom colour button
 
 To start:
 >> cd src
