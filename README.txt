@@ -1,3 +1,6 @@
+Created: Feb 29
+Status: Incomplete
+
 Need to add:
 Save/Load
 Fit/Full_size
